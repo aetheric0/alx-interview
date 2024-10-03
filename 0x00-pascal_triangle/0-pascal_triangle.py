@@ -2,6 +2,7 @@
 """ Implements the Pascals Triangle in Python
 """
 
+
 def pascal_triangle(n):
     """ Returns A lists of integers representing the Pascal's triangle of n
     """
