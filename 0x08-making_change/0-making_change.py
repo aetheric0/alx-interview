@@ -3,6 +3,7 @@
 to meet a given amount of total
 """
 
+
 def makeChange(coins, total):
     """ Calculates the fewest number of coins
     needed to meet a total and returns result
