@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """ Determines the fewest number of coins needed
 to meet a given amount of total
 """
